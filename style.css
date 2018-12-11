@@ -1,0 +1,10 @@
+body{
+    
+    background-color: green;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.border { border-width: 5px; border-color: white; border-style: solid; } 
+
+<img src="/wp-content/uploads/flamingo.jpg" class="border"> 

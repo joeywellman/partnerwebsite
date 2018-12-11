@@ -1,7 +1,7 @@
 var sydneyObject = {
     firstName: "Sydney",
     lastName: "Wait",
-    hobbies: ["Cooking", "Running", "Traveling", "Sowing"],
+    hobbies: ["Cooking", "Running", "Sowing", "Traveling"],
     lastJob: "Adjunct Professor at Marshall University (Mechanical Engineering)",
     dreamJob: "Getting paid to travel!!!",
     familyLife: "Sydney is happily married to [another] teaching legend, Dr. Isaac Wait, P.E.  They have engineered two beautiful children together.",
